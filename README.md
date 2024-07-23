@@ -4,7 +4,7 @@ This is a simple Movie Rating Application built using Python and Tkinter. The ap
 
 ## Screenshot
 
-![Movie Rating App Screenshot](screenshot.PNG)
+![Movie Rating App Screenshot](screenshot.png)
 
 ## Prerequisites
 
